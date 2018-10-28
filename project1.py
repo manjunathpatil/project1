@@ -1,0 +1,6 @@
+print('error' )
+var1 = input("enter your name")
+print(var1 )
+print("error", var1 )
+v1 = input("shivu")
+print(v1)
